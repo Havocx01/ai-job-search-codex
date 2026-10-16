@@ -80,4 +80,4 @@ The stock CV is two pages and the cover letter is one page. Use `add-template` i
 
 Keep Codex changes in this fork and follow [CONTRIBUTING.md](CONTRIBUTING.md). General framework fixes can go upstream. Its maintainer asks that runtime adaptations remain in [community forks](https://github.com/MadsLorentzen/ai-job-search/discussions/78).
 
-Original project by [Mads Lorentzen and contributors](https://github.com/MadsLorentzen/ai-job-search). Codex adaptation maintained by [Adam Qablawi](https://github.com/Havocx01). Distributed under the original [MIT license](LICENSE).
+Original project by [Mads Lorentzen and contributors](https://github.com/MadsLorentzen/ai-job-search). Codex adaptation maintained by [Havocx01](https://github.com/Havocx01). Distributed under the original [MIT license](LICENSE).
